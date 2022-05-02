@@ -1,0 +1,3 @@
+[submodule "ionic-native"]
+	path = ionic-native
+	url = https://github.com/ionic-team/ionic-native.git

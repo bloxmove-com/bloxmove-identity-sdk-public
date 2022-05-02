@@ -1,0 +1,11 @@
+{
+	"name": "mbp-identity-ionic-native-plugin",
+	"version": "0.0.1",
+	"license": "ISC",
+	"scripts": {
+		"build": "node build.js"
+	},
+	"dependencies": {
+		"shelljs": "^0.8.3"
+	}
+}
